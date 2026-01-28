@@ -18,4 +18,4 @@ ClinAI is a simple Flutter chatbot app focused on **clean** chat UI and smooth r
    ```bash
    git clone https://github.com/maazbaloch-cell/clinai-health-chat
 .git
-   cd your-repo-name
+   cd clinai-health-chat
