@@ -1,16 +1,21 @@
-# projectify
+# clinai-flutter-app
+ClinAi is a Flutter-based AI chatbot UI for healthcare and clinic use cases. This project focuses purely on the frontend experience, providing a clean, modern chat interface with complete navigation and screen routing already wired up.
+A simple Flutter chatbot app with a clean chat UI and complete routing, built to practice modern mobile UI design in Dart.
+# ClinAI Chatbot UI
 
-A new Flutter project.
+ClinAI is a simple Flutter chatbot app focused on **clean** chat UI and smooth routing between screens. It is mainly built to practice Flutter UI, navigation, and app structure.
+
+## Features
+
+- Chat-style UI for user and bot messages
+- Multiple screens with proper routing
+- Responsive layout for different screen sizes
+- Clean and readable Flutter code structure
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/maazbaloch-cell/clinai-health-chat
+.git
+   cd your-repo-name
